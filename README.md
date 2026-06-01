@@ -12,7 +12,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,py,ts,js,cpp,c,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=vue,ts,js" /><br>
+  <img src="https://skillicons.dev/icons?i=go,py,cpp,c,bash" /><br>
   <img src="https://skillicons.dev/icons?i=git,linux,postgres,docker,unreal,rabbitmq,aws,gcp" />
 </a>
 
